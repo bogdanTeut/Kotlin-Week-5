@@ -1,0 +1,7 @@
+.gradle
+.idea
+Games/.DS_Store
+Games/Task/.DS_Store
+Games/Task/build/
+Games/Task/out/
+Games/Task/src/.DS_Store
